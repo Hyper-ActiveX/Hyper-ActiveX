@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, This is  Jay Kumar Pandit</h1>
 <h3 align="center">A passionate Web developer from India</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=kanha638&label=Profile%20views&color=0e75b6&style=flat" alt="kanha638" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=Hyper-ActiveX&label=Profile%20views&color=0e75b6&style=flat" alt="Hyper-ActiveX" /> </p>
 
-- 🌱 I’m currently learning **Android Devlopment**
+- 🌱 I’m currently learning **Web Development**
 
 - 💬 Ask me about **React,Node**
 
